@@ -1,6 +1,3 @@
 # KMeans-Clustering
 
-* Nama: Jalaludin Muflih
-* NIM : E1E122104
-* Kelas : B
-* Mata Kuliah : Machine Learning
+Dataset Source : https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
